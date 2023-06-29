@@ -7,7 +7,8 @@
             Console.WriteLine("Provide the number of working places in the new office and employees's sitting preferences");
             Console.WriteLine("Insert input in the following format: N;[1, 2, 4];[3, 4];[5];[1, 4, 5]:");
 
-            string input = Console.ReadLine(); 
+            string input = Console.ReadLine();
+            Console.WriteLine("\nIs there a possibility to make all of your team members feel comfortable at the new office?");
             Console.WriteLine(IsComfortableCombinationPossible(input));
         }
 
