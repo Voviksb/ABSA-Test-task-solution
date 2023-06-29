@@ -7,16 +7,16 @@
             Console.WriteLine("Provide the number of working places in the new office and employees's sitting preferences");
             Console.WriteLine("Insert input in the following format: N;[1, 2, 4];[3, 4];[5];[1, 4, 5]:");
 
-            string input = "5;[3];[4];[1, 2];[4]";
+            string input = Console.ReadLine(); 
             Console.WriteLine(IsComfortableCombinationPossible(input));
         }
 
         public static string IsComfortableCombinationPossible(string input)
         {
             int placesCount;
-            bool parsingResult = int.TryParse(input[0].ToString(), out placesCount);
+            bool isNumber = int.TryParse(input[0].ToString(), out placesCount);
 
-            if(!parsingResult)
+            if(!isNumber)
                 throw new ArgumentException("Invalid places count inserted");
 
             if (placesCount < 1)
@@ -37,12 +37,12 @@
             if(chosenPlacesLists.Count > placesCount)
                 throw new ArgumentException("Employees count cannot be more than places count");
 
-            bool isPossible = AllocateTeam(placesCount, chosenPlacesLists);
+            bool isPossible = AllocateTeam(chosenPlacesLists);
             string answer = isPossible ? "Yes" : "No";
             return answer;
         }
 
-        private static bool AllocateTeam(int n, List<List<int>> chosenPlacesLists)
+        private static bool AllocateTeam(List<List<int>> chosenPlacesLists)
         {
             for (int i = 0; i < chosenPlacesLists.Count; i++)
             {

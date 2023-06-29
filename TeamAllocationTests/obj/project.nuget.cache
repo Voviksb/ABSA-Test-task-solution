@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1jcPqhkcBuwhJMdERDrzJgGhyF6NPA567/fD9Xeow6EiqMV10AEvzmoIG0aWZilT17e1UUuF/5oipGjM7UTiXQ==",
+  "dgSpecHash": "QpyWFYUov1aCOYTyAovXqFkW4l22OXoFG/RSPYVgC5aJBPCxYuPTsbQkxYLoMW8ajm0jF/czYZUTo3nc+inpOw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\pukha\\source\\repos\\TeamAllocationTests\\TeamAllocationTests.csproj",
+  "projectFilePath": "C:\\Users\\pukha\\source\\repos\\ABSA-Test-task-solution\\TeamAllocationTests\\TeamAllocationTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pukha\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",
     "C:\\Users\\pukha\\.nuget\\packages\\microsoft.codecoverage\\17.5.0\\microsoft.codecoverage.17.5.0.nupkg.sha512",
