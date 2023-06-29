@@ -1,0 +1,15 @@
+C:\Users\pukha\source\repos\ABSA-Test-task\bin\Debug\net6.0\ABSA-Test-task.exe
+C:\Users\pukha\source\repos\ABSA-Test-task\bin\Debug\net6.0\ABSA-Test-task.deps.json
+C:\Users\pukha\source\repos\ABSA-Test-task\bin\Debug\net6.0\ABSA-Test-task.runtimeconfig.json
+C:\Users\pukha\source\repos\ABSA-Test-task\bin\Debug\net6.0\ABSA-Test-task.dll
+C:\Users\pukha\source\repos\ABSA-Test-task\bin\Debug\net6.0\ABSA-Test-task.pdb
+C:\Users\pukha\source\repos\ABSA-Test-task\obj\Debug\net6.0\ABSA-Test-task.csproj.AssemblyReference.cache
+C:\Users\pukha\source\repos\ABSA-Test-task\obj\Debug\net6.0\ABSA-Test-task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pukha\source\repos\ABSA-Test-task\obj\Debug\net6.0\ABSA-Test-task.AssemblyInfoInputs.cache
+C:\Users\pukha\source\repos\ABSA-Test-task\obj\Debug\net6.0\ABSA-Test-task.AssemblyInfo.cs
+C:\Users\pukha\source\repos\ABSA-Test-task\obj\Debug\net6.0\ABSA-Test-task.csproj.CoreCompileInputs.cache
+C:\Users\pukha\source\repos\ABSA-Test-task\obj\Debug\net6.0\ABSA-Test-task.dll
+C:\Users\pukha\source\repos\ABSA-Test-task\obj\Debug\net6.0\refint\ABSA-Test-task.dll
+C:\Users\pukha\source\repos\ABSA-Test-task\obj\Debug\net6.0\ABSA-Test-task.pdb
+C:\Users\pukha\source\repos\ABSA-Test-task\obj\Debug\net6.0\ABSA-Test-task.genruntimeconfig.cache
+C:\Users\pukha\source\repos\ABSA-Test-task\obj\Debug\net6.0\ref\ABSA-Test-task.dll

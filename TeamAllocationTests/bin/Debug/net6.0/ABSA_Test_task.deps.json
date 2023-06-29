@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ABSA_Test_task/1.0.0": {
+        "runtime": {
+          "ABSA_Test_task.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ABSA_Test_task/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
